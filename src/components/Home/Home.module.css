@@ -1,0 +1,16 @@
+.homeDiv {
+  text-align: center;
+}
+.home_title {
+  color: #fff;
+  margin-bottom: 2rem;
+}
+.home_btn {
+  background-color: orange;
+  color: white;
+  padding: 1rem 4rem;
+  border: none;
+  border-radius: 5px;
+  font-size: 1.5rem;
+  cursor: pointer;
+}

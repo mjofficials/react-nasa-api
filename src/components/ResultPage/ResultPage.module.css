@@ -1,0 +1,26 @@
+.result {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.res_img {
+  width: 450px;
+  height: auto;
+}
+.desc_box {
+  padding: 2rem;
+}
+.title {
+  color: red;
+  margin-bottom: 1rem;
+}
+.date,
+.explanation {
+  color: white;
+  margin-bottom: 1rem;
+}
+.explanation {
+  line-height: 1.8rem;
+}
